@@ -1,0 +1,57 @@
+/* Upload section */
+.upload-container {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 20px;
+}
+
+.file-input {
+  display: none;
+}
+
+.upload-button {
+  font-weight: bold;
+  padding: 0.5rem 1.2rem;
+  text-transform: uppercase;
+  background-color: #1976d2;
+  color: white;
+}
+
+/* Table container */
+.table-container {
+  overflow-x: auto;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  padding: 10px;
+}
+
+.invoice-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.invoice-table th {
+  background-color: #1976d2;
+  color: white;
+  font-weight: 600;
+  padding: 10px;
+  text-align: left;
+}
+
+.invoice-table td {
+  padding: 8px 10px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.invoice-table tr:hover td {
+  background-color: #f5f5f5;
+}
+
+.mat-paginator {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+}

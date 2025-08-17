@@ -1,0 +1,7 @@
+Customer Id,Invoice Number,Invoice Date,Description,Amount
+CUST007,INV007,2025-08-14,Consulting Services,150.25
+CUST008,INV008,2025-08-15,Software License,250.70
+CUST009,INV009,2025-08-16,Hardware Purchase,320.00
+CUST010,INV010,2025-08-14,Consulting Services,150.25
+CUST011,INV011,2025-08-15,Software License,250.70
+CUST012,INV012,2025-08-16,Hardware Purchase,320.00

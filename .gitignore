@@ -1,0 +1,23 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Angular
+.angular/
+*.log
+
+# Java / Spring Boot
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Mac system files
+.DS_Store
